@@ -1,0 +1,409 @@
+- generic [active] [ref=e1]:
+  - link "تخطي إلى المحتوى" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - status "جاري التحميل" [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e7]:
+        - text: bet
+        - emphasis [ref=e8]: w
+        - text: een
+      - generic [ref=e9]: بـتـويـن
+    - generic [ref=e12]: 36%
+  - navigation "التنقل الرئيسي" [ref=e13]:
+    - generic [ref=e14]:
+      - img "Between" [ref=e15]
+      - generic [ref=e16]:
+        - text: bet
+        - emphasis [ref=e17]: w
+        - text: een
+    - list [ref=e18]:
+      - listitem [ref=e19]:
+        - link "الخدمات" [ref=e20] [cursor=pointer]:
+          - /url: "#services"
+      - listitem [ref=e21]:
+        - link "آلية العمل" [ref=e22] [cursor=pointer]:
+          - /url: "#process"
+      - listitem [ref=e23]:
+        - link "تتبع الشحن" [ref=e24] [cursor=pointer]:
+          - /url: "#tracking"
+      - listitem [ref=e25]:
+        - link "الشركاء" [ref=e26] [cursor=pointer]:
+          - /url: "#partners"
+      - listitem [ref=e27]:
+        - link "الأسئلة الشائعة" [ref=e28] [cursor=pointer]:
+          - /url: "#faq"
+    - generic [ref=e29]:
+      - button "EN" [ref=e30] [cursor=pointer]
+      - button "ابدأ الآن" [ref=e31] [cursor=pointer]
+  - main [ref=e32]:
+    - generic [ref=e33]:
+      - generic [ref=e37]:
+        - generic [ref=e38]: شبكة التوصيل رقم 1 في المملكة العربية السعودية · بتوين
+        - heading "منتجاتك. لوجستياتنا بكفاءة. توصيل." [level=1] [ref=e39]:
+          - generic [ref=e41]: منتجاتك.
+          - generic [ref=e43]:
+            - text: لوجستياتنا
+            - emphasis [ref=e44]: بكفاءة.
+          - generic [ref=e46]: توصيل.
+        - paragraph [ref=e47]: بتوين تربط متجرك الإلكتروني بأسرع شبكة توصيل في المملكة — من التخزين حتى باب المستلم، نحن نتكفل بكل شيء.
+        - generic [ref=e48]:
+          - link "تتبع الشحن →" [ref=e49] [cursor=pointer]:
+            - /url: "#tracking"
+          - link "استعرض الخدمات" [ref=e50] [cursor=pointer]:
+            - /url: "#services"
+      - generic [ref=e53]: اسحب للاكتشاف
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - generic [ref=e56]: 27M+
+          - generic [ref=e57]: منتج تم شحنه
+        - generic [ref=e58]:
+          - generic [ref=e59]: 500+
+          - generic [ref=e60]: مدينة مغطاة
+        - generic [ref=e61]:
+          - generic [ref=e62]: 15M+
+          - generic [ref=e63]: منتج مخزن
+        - generic [ref=e64]:
+          - generic [ref=e65]: 5K+
+          - generic [ref=e66]: طلب يومي
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]: 📦
+          - generic [ref=e71]: 0M+
+          - generic [ref=e72]: منتج تم شحنه
+        - generic [ref=e73]:
+          - generic [ref=e74]: 🏙️
+          - generic [ref=e75]: 0+
+          - generic [ref=e76]: مدينة مغطاة
+        - generic [ref=e77]:
+          - generic [ref=e78]: 🏭
+          - generic [ref=e79]: 0M+
+          - generic [ref=e80]: منتج مخزن
+        - generic [ref=e81]:
+          - generic [ref=e82]: ⚡
+          - generic [ref=e83]: 0+
+          - generic [ref=e84]: طلب يومي
+      - text: BETWEEN
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - generic [ref=e87]: ما نقدمه
+        - heading "خدمات متكاملة من الألف إلى الياء" [level=2] [ref=e88]:
+          - text: خدمات متكاملة
+          - text: من الألف إلى الياء
+      - generic [ref=e89]:
+        - generic [ref=e90] [cursor=pointer]:
+          - generic [ref=e91]: "01"
+          - generic [ref=e92]: 📥
+          - heading "الاستلام والفحص" [level=3] [ref=e93]
+          - paragraph [ref=e94]: نستلم بضاعتك من الموردين أو الموانئ، نفحص الكميات والجودة، ونُدخلها فوراً إلى لوحة تحكمك الذكية بشكل إلكتروني.
+          - generic [ref=e95]: ←
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: "02"
+          - generic [ref=e98]: 🏭
+          - heading "التخزين الذكي" [level=3] [ref=e99]
+          - paragraph [ref=e100]: 4 مستودعات استراتيجية في الرياض وجدة. تدفع فقط مقابل المساحة التي تستخدمها — لا رسوم ثابتة شهرية. توسّع فوري.
+          - generic [ref=e101]: ←
+        - generic [ref=e102] [cursor=pointer]:
+          - generic [ref=e103]: "03"
+          - generic [ref=e104]: 🔗
+          - heading "ربط المنصات" [level=3] [ref=e105]
+          - paragraph [ref=e106]: اربط متجرك على سلة، زد، شوبيفاي، ووكومرس أو ماجنتو بسهولة. الطلبات تتزامن تلقائياً — لا تدخل يدوي.
+          - generic [ref=e107]: ←
+        - generic [ref=e108] [cursor=pointer]:
+          - generic [ref=e109]: "04"
+          - generic [ref=e110]: 🖨️
+          - heading "التجهيز والتغليف" [level=3] [ref=e111]
+          - paragraph [ref=e112]: الطلبات تُجهَّز وتُغلَّف بتغليف مخصص عند الطلب وتُسلَّم لشركة الشحن خلال 24 ساعة، مع تحديثات لحظية.
+          - generic [ref=e113]: ←
+        - generic [ref=e114] [cursor=pointer]:
+          - generic [ref=e115]: "05"
+          - generic [ref=e116]: 🚚
+          - heading "توصيل متعدد الناقلين" [level=3] [ref=e117]
+          - paragraph [ref=e118]: نتعاون مع أرامكس، DHL، SMSA، ناقل، iMile وغيرها — نختار الأسرع والأوفر لتوصيل طلباتك لـ500+ مدينة سعودية.
+          - generic [ref=e119]: ←
+        - generic [ref=e120] [cursor=pointer]:
+          - generic [ref=e121]: "06"
+          - generic [ref=e122]: ↩️
+          - heading "إدارة المرتجعات" [level=3] [ref=e123]
+          - paragraph [ref=e124]: معالجة المرتجعات بسهولة تامة. الأصناف تُفحص وتُعاد فهرستها وتُرجع للمخزون تلقائياً. مخزونك دائماً دقيق.
+          - generic [ref=e125]: ←
+    - generic [ref=e126]:
+      - generic [ref=e127]:
+        - generic [ref=e128]: رحلة التوصيل
+        - heading "من المورد إلى باب عميلك" [level=2] [ref=e129]:
+          - text: من المورد
+          - text: إلى باب عميلك
+      - generic [ref=e132]:
+        - generic [ref=e133]:
+          - generic [ref=e134]: 📥 1
+          - generic [ref=e135]: الاستلام
+          - generic [ref=e136]: وصول البضاعة للمستودع
+        - generic [ref=e137]:
+          - generic [ref=e138]: 🔍 2
+          - generic [ref=e139]: الفحص
+          - generic [ref=e140]: فحص الجودة والكميات
+        - generic [ref=e141]:
+          - generic [ref=e142]: 🏷️ 3
+          - generic [ref=e143]: التسجيل
+          - generic [ref=e144]: إدخال إلكتروني ورمز SKU
+        - generic [ref=e145]:
+          - generic [ref=e146]: 📦 4
+          - generic [ref=e147]: التخزين
+          - generic [ref=e148]: تخزين آمن وذكي
+        - generic [ref=e149]:
+          - generic [ref=e150]: 🛒 5
+          - generic [ref=e151]: الطلب
+          - generic [ref=e152]: العميل يطلب من متجرك
+        - generic [ref=e153]:
+          - generic [ref=e154]: ⚡ 6
+          - generic [ref=e155]: التجهيز
+          - generic [ref=e156]: تجهيز خلال ساعات
+        - generic [ref=e157]:
+          - generic [ref=e158]: 🚀 7
+          - generic [ref=e159]: الإرسال
+          - generic [ref=e160]: تسليم لأفضل ناقل
+        - generic [ref=e161]:
+          - generic [ref=e162]: ✅ 8
+          - generic [ref=e163]: التوصيل
+          - generic [ref=e164]: العميل يستلم طلبه
+    - generic [ref=e166]:
+      - generic [ref=e167]: تتبع الشحنة
+      - heading "أين طردك الآن؟" [level=2] [ref=e168]:
+        - text: أين طردك
+        - text: الآن؟
+      - paragraph [ref=e169]: أدخل رقم التتبع للحصول على تحديثات فورية
+      - generic [ref=e170]:
+        - textbox "رقم التتبع" [ref=e171]:
+          - /placeholder: "مثال: BTW-82947163 أو BW-00123456"
+        - button "تتبع الآن ⟶" [ref=e172] [cursor=pointer]:
+          - generic [ref=e173]: تتبع الآن
+          - generic [ref=e174]: ⟶
+    - generic [ref=e175]:
+      - generic [ref=e176]:
+        - generic [ref=e177]: شبكة الشحن
+        - heading "مدعوم بأقوى ناقلات المملكة العربية السعودية" [level=2] [ref=e178]:
+          - text: مدعوم بأقوى ناقلات
+          - text: المملكة العربية السعودية
+      - generic [ref=e180]:
+        - img "Aramex" [ref=e181]
+        - img "DHL" [ref=e335]
+        - img "SMSA" [ref=e336]
+        - img "Naqel" [ref=e337]
+        - img "iMile" [ref=e338]
+        - img "J&T" [ref=e339]
+        - img "Yamamah" [ref=e340]
+        - img "SAEE" [ref=e341]
+        - img "Wepik Express" [ref=e342]
+        - img "Red Box" [ref=e343]
+        - img "لبيه" [ref=e344]
+        - img "Aramex" [ref=e182]
+        - img "DHL" [ref=e345]
+        - img "SMSA" [ref=e346]
+        - img "Naqel" [ref=e347]
+        - img "iMile" [ref=e348]
+        - img "J&T" [ref=e349]
+        - img "Yamamah" [ref=e350]
+        - img "SAEE" [ref=e351]
+        - img "Wepik Express" [ref=e352]
+        - img "Red Box" [ref=e353]
+        - img "لبيه" [ref=e354]
+      - generic [ref=e183]: المنصات الإلكترونية المتكاملة
+      - generic [ref=e185]:
+        - img "Salla" [ref=e355]
+        - img "Zid" [ref=e356]
+        - img "Shopify" [ref=e357]
+        - img "WooCommerce" [ref=e358]
+        - img "Magento" [ref=e359]
+        - img "OpenCart" [ref=e360]
+        - img "Salla" [ref=e361]
+        - img "Zid" [ref=e362]
+        - img "Shopify" [ref=e363]
+        - img "WooCommerce" [ref=e364]
+        - img "Magento" [ref=e365]
+        - img "OpenCart" [ref=e366]
+    - generic [ref=e186]:
+      - generic [ref=e187]:
+        - generic [ref=e188]: مرخص ومعتمد
+        - heading "مرخص من هيئة الغذاء والدواء" [level=2] [ref=e189]:
+          - text: مرخص من هيئة
+          - text: الغذاء والدواء
+        - paragraph [ref=e190]: تحمل بتوين ترخيصاً رسمياً من هيئة الغذاء والدواء السعودية (SFDA) — يتيح تخزين وتوصيل مستحضرات التجميل والمكملات الغذائية والمنتجات الصحية والسلع الخاضعة للرقابة. امتثالك مضمون.
+        - generic [ref=e191]:
+          - generic [ref=e192]: 🧴 مستحضرات التجميل
+          - generic [ref=e193]: 💊 مكملات غذائية
+          - generic [ref=e194]: 🏥 منتجات صحية
+          - generic [ref=e195]: 🧪 سلع خاضعة للرقابة
+      - generic [ref=e197]:
+        - img [ref=e198]:
+          - generic [ref=e200]: SFDA LICENSED · BETWEEN · CERTIFIED ·
+        - generic [ref=e201]:
+          - strong [ref=e202]: SFDA
+          - generic [ref=e203]:
+            - text: Certified
+            - text: Partner
+    - generic [ref=e204]:
+      - generic [ref=e205]:
+        - generic [ref=e206]: لماذا بتوين
+        - heading "كل ما تحتاجه، لا أكثر ولا أقل" [level=2] [ref=e207]:
+          - text: كل ما تحتاجه،
+          - text: لا أكثر ولا أقل
+      - generic [ref=e208]:
+        - generic [ref=e209]:
+          - generic [ref=e210]: 📡
+          - generic [ref=e211]:
+            - generic [ref=e212]: لوحة تحكم لحظية
+            - generic [ref=e213]: راقب مخزونك وحالة الطلبات والشحنات من أي مكان في العالم — على هاتفك أو حاسوبك، طوال اليوم.
+        - generic [ref=e214]:
+          - generic [ref=e215]: 💰
+          - generic [ref=e216]:
+            - generic [ref=e217]: ادفع حسب الاستخدام
+            - generic [ref=e218]: لا رسوم ثابتة شهرية على المستودع. تدفع فقط مقابل المساحة الفعلية التي تشغلها والطلبات التي تشحنها.
+        - generic [ref=e219]:
+          - generic [ref=e220]: ⚡
+          - generic [ref=e221]:
+            - generic [ref=e222]: تنفيذ خلال 24 ساعة
+            - generic [ref=e223]: الطلبات المستلمة قبل وقت القطع تُجهَّز وتُسلَّم لشركة الشحن في نفس اليوم. التوصيل في الرياض وجدة خلال 24 ساعة.
+        - generic [ref=e224]:
+          - generic [ref=e225]: 🗺️
+          - generic [ref=e226]:
+            - generic [ref=e227]: 4 مستودعات استراتيجية
+            - generic [ref=e228]: مواقع استراتيجية في الرياض وجدة لأقصى تغطية وأدنى وقت توصيل في جميع أنحاء المملكة.
+        - generic [ref=e229]:
+          - generic [ref=e230]: 🔌
+          - generic [ref=e231]:
+            - generic [ref=e232]: ربط فوري وسهل
+            - generic [ref=e233]: اربط متجرك في دقائق. ندعم سلة، زد، شوبيفاي، ووكومرس، ماجنتو، أوبن كارت وغيرها.
+        - generic [ref=e234]:
+          - generic [ref=e235]: 🛡️
+          - generic [ref=e236]:
+            - generic [ref=e237]: حماية كاملة من الفقد
+            - generic [ref=e238]: كل صنف يُعدّ ويُتحقق منه عند الاستلام. نظامنا يضمن صفر فقد — أي فرق يُتتبع فوراً ويُحل.
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - generic [ref=e241]: أوقات التوصيل
+        - heading "أسرع توصيل في كل أنحاء المملكة" [level=2] [ref=e242]:
+          - text: أسرع توصيل
+          - text: في كل أنحاء المملكة
+        - paragraph [ref=e243]: نوصل لأكثر من 500 مدينة في المملكة العربية السعودية عبر شبكة ناقلين متعددة — نختار دائماً الأسرع والأوفر.
+      - generic [ref=e245]:
+        - generic [ref=e246]:
+          - generic [ref=e247]: 📍 الرياض
+          - generic [ref=e248]: 24h
+          - generic [ref=e249]: نفس اليوم / اليوم التالي
+        - generic [ref=e250]:
+          - generic [ref=e251]: 📍 جدة
+          - generic [ref=e252]: 24h
+          - generic [ref=e253]: نفس اليوم / اليوم التالي
+        - generic [ref=e254]:
+          - generic [ref=e255]: 🏙️ المدن الرئيسية
+          - generic [ref=e256]: 3–5d
+          - generic [ref=e257]: توصيل مؤكد
+        - generic [ref=e258]:
+          - generic [ref=e259]: 🌐 المدن الأخرى
+          - generic [ref=e260]: 5–7d
+          - generic [ref=e261]: تغطية وطنية شاملة
+    - generic [ref=e262]:
+      - generic [ref=e263]:
+        - generic [ref=e264]: الأسئلة الشائعة
+        - heading "أسئلة متكررة" [level=2] [ref=e265]:
+          - text: أسئلة
+          - text: متكررة
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - generic [ref=e268] [cursor=pointer]:
+            - generic [ref=e269]: كيف تعمل فوترة التخزين؟
+            - generic [ref=e270]: +
+          - generic: تدفع فقط مقابل المساحة الفعلية التي تشغلها منتجاتك — تُحسب يومياً. لا رسوم ثابتة شهرية. يزداد حسابك وينقص تبعاً لمخزونك. هذا يجعل بتوين مثالية للمتاجر الموسمية والمتنامية بسرعة.
+        - generic [ref=e271]:
+          - generic [ref=e272] [cursor=pointer]:
+            - generic [ref=e273]: ما هي المنصات الإلكترونية التي تتكاملون معها؟
+            - generic [ref=e274]: +
+          - generic: نتكامل مباشرة مع سلة، زد، شوبيفاي، ووكومرس، ماجنتو، وأوبن كارت. الطلبات تتزامن تلقائياً فور استلامها من العميل. تتكاملات API مخصصة متاحة أيضاً.
+        - generic [ref=e275]:
+          - generic [ref=e276] [cursor=pointer]:
+            - generic [ref=e277]: هل تتعاملون مع المنتجات الخاضعة لترخيص SFDA؟
+            - generic [ref=e278]: +
+          - generic: نعم. تحمل بتوين ترخيصاً رسمياً من هيئة الغذاء والدواء السعودية، مما يتيح لنا تخزين وتوصيل مستحضرات التجميل والمكملات الغذائية والفئات المنظمة الأخرى. نحتفظ بجميع وثائق الامتثال.
+        - generic [ref=e279]:
+          - generic [ref=e280] [cursor=pointer]:
+            - generic [ref=e281]: ما هي سرعة تنفيذ الطلبات؟
+            - generic [ref=e282]: +
+          - generic: الطلبات الواردة قبل وقت القطع اليومي تُجهَّز وتُسلَّم لشركة الشحن في نفس اليوم. يستلم عملاء الرياض وجدة عادةً طلباتهم خلال 24 ساعة.
+        - generic [ref=e283]:
+          - generic [ref=e284] [cursor=pointer]:
+            - generic [ref=e285]: هل تقدمون تغليفاً مخصصاً بشعار العلامة التجارية؟
+            - generic [ref=e286]: +
+          - generic: بالتأكيد. نقدم صناديق مخصصة وأوراق التسام وملصقات وشرائح إضافية باسم علامتك التجارية. عملاؤك سيحصلون على تجربة فتح طرد احترافية تعكس هويتك.
+        - generic [ref=e287]:
+          - generic [ref=e288] [cursor=pointer]:
+            - generic [ref=e289]: كيف تتعاملون مع المرتجعات؟
+            - generic [ref=e290]: +
+          - generic: المرتجعات تُستلم وتُفحص وتُعاد فهرستها وتُدخَل للمخزون تلقائياً. يمكنك تتبع كل مرتجع في لوحة التحكم اللحظية.
+    - generic [ref=e292]:
+      - generic [ref=e293]: مستعد للانطلاق؟
+      - heading "ابدأ التوصيل كالعمالقة اليوم." [level=2] [ref=e294]:
+        - text: ابدأ التوصيل
+        - text: كالعمالقة
+        - text: اليوم.
+      - paragraph [ref=e295]: انضم لمئات من أصحاب المتاجر الإلكترونية في المملكة الذين يثقون ببتوين لتخزين وتجهيز وتوصيل طلباتهم — حتى يتفرغوا للنمو.
+      - generic [ref=e296]:
+        - link "احصل على عرض سعر مجاني →" [ref=e297] [cursor=pointer]:
+          - /url: mailto:info@between.sa
+        - link "📞 اتصل بنا الآن" [ref=e298] [cursor=pointer]:
+          - /url: tel:+966
+      - paragraph [ref=e299]: between.sa · الرياض وجدة، المملكة العربية السعودية
+  - contentinfo [ref=e300]:
+    - generic [ref=e301]:
+      - generic [ref=e302]:
+        - generic [ref=e303]:
+          - img "Between" [ref=e304]
+          - generic [ref=e305]:
+            - text: bet
+            - emphasis [ref=e306]: w
+            - text: een
+        - paragraph [ref=e307]: شريك التوصيل والخدمات اللوجستية الأول للمتاجر الإلكترونية في المملكة. مرخص من هيئة الغذاء والدواء. نُعالج أكثر من 5,000 طلب يومياً.
+        - generic [ref=e308]: بـتـويـن
+      - generic [ref=e309]:
+        - generic [ref=e310]: الخدمات
+        - link "التخزين" [ref=e311] [cursor=pointer]:
+          - /url: "#services"
+        - link "تنفيذ الطلبات" [ref=e312] [cursor=pointer]:
+          - /url: "#services"
+        - link "ربط المنصات" [ref=e313] [cursor=pointer]:
+          - /url: "#services"
+        - link "إدارة المرتجعات" [ref=e314] [cursor=pointer]:
+          - /url: "#services"
+        - link "منتجات SFDA" [ref=e315] [cursor=pointer]:
+          - /url: "#sfda"
+      - generic [ref=e316]:
+        - generic [ref=e317]: الشركة
+        - link "آلية العمل" [ref=e318] [cursor=pointer]:
+          - /url: "#process"
+        - link "شركاء الشحن" [ref=e319] [cursor=pointer]:
+          - /url: "#partners"
+        - link "الأسئلة الشائعة" [ref=e320] [cursor=pointer]:
+          - /url: "#faq"
+        - link "ابدأ الآن" [ref=e321] [cursor=pointer]:
+          - /url: "#cta"
+      - generic [ref=e322]:
+        - generic [ref=e323]: تواصل معنا
+        - link "info@between.sa" [ref=e324] [cursor=pointer]:
+          - /url: mailto:info@between.sa
+        - link "between.sa" [ref=e325] [cursor=pointer]:
+          - /url: https://between.sa
+        - link "مستودع الرياض" [ref=e326] [cursor=pointer]:
+          - /url: "#"
+        - link "مستودع جدة" [ref=e327] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e328]:
+      - generic [ref=e329]: © 2026 بتوين | Between. جميع الحقوق محفوظة.
+      - generic [ref=e330]:
+        - link "Twitter" [ref=e331] [cursor=pointer]:
+          - /url: https://twitter.com/betweensa
+          - text: 𝕏
+        - link "LinkedIn" [ref=e332] [cursor=pointer]:
+          - /url: https://linkedin.com/company/betweensa
+          - text: in
+        - link "Instagram" [ref=e333] [cursor=pointer]:
+          - /url: https://instagram.com/betweensa
+          - text: ig
