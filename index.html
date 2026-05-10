@@ -812,6 +812,47 @@ let lang='ar';
 function t(key){return T[lang][key]||T.ar[key]||key;}
 
 // ═══════════════════════════════════════════
+// PRELOADER
+// ═══════════════════════════════════════════
+(function(){
+  const pf=document.getElementById('pfill'),pp=document.getElementById('ppct');
+  const pb1=document.getElementById('pb1'),pb2=document.getElementById('pb2');
+  const pw=document.querySelector('.pre-logo-txt'),par=document.querySelector('.pre-ar');
+  gsap.to(pb1,{scaleY:1,duration:.55,ease:'back.out(1.7)',delay:.2});
+  gsap.to(pb2,{scaleY:1,duration:.55,ease:'back.out(1.7)',delay:.38});
+  gsap.to(pw,{opacity:1,duration:.5,delay:.65});
+  gsap.to(par,{opacity:1,duration:.5,delay:.85});
+  let pct=0;
+  const iv=setInterval(()=>{
+    pct=Math.min(100,pct+Math.random()*9+3);
+    pf.style.width=pct+'%';
+    pp.textContent=Math.floor(pct)+'%';
+    if(pct>=100){
+      clearInterval(iv);
+      setTimeout(()=>{
+        gsap.to('#preloader',{opacity:0,duration:.55,onComplete:()=>{
+          document.getElementById('preloader').style.display='none';
+          startHeroAnim();
+        }});
+      },350);
+    }
+  },55);
+})();
+
+// ═══════════════════════════════════════════
+// HERO ANIMATIONS
+// ═══════════════════════════════════════════
+function startHeroAnim(){
+  gsap.to('#hbadge',{opacity:1,y:0,duration:.7,delay:.1});
+  ['#hl1','#hl2','#hl3'].forEach((id,i)=>{
+    gsap.to(id,{y:'0%',duration:.9,ease:'power4.out',delay:.2+i*.15});
+  });
+  gsap.to('#hdesc',{opacity:1,y:0,duration:.7,delay:.62});
+  gsap.to('#hbtns',{opacity:1,y:0,duration:.7,delay:.8});
+  gsap.to('#hright',{opacity:1,x:0,duration:.9,delay:1,ease:'power3.out'});
+}
+
+// ═══════════════════════════════════════════
 // LANGUAGE TOGGLE
 // ═══════════════════════════════════════════
 function toggleLang(){
